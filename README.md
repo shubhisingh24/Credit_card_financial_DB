@@ -9,8 +9,7 @@ and analyze credit card operations efficiently and effectively.
 Insights- Week 53 (31st Dec)
 WoW change:
 • Revenue increased by 28.8%,
-• Total Transaction Amt & Count increased by xx% & xx%
-• Customer count increased by xx%
+
 Overview YTD:
 • Overall revenue is 57M
 • Total interest is 8M
